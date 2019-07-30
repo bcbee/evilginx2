@@ -22,7 +22,7 @@ I am very much aware that Evilginx can be used for nefarious purposes. This work
 
 See **evilginx2** in action here:
 
-https://vimeo.com/281220095
+[![Evilginx Demo](https://i.imgur.com/80jcbDl.png)](https://vimeo.com/281220095)
 
 ## Write-up
 
@@ -39,6 +39,10 @@ Please thank the following contributors for devoting their precious time to deli
 [**@white_fi**](https://twitter.com/white_fi) - Twitter
 
 [**rvrsh3ll @424f424f**](https://twitter.com/424f424f) - Citrix
+
+[**audibleblink @4lex**](https://twitter.com/4lex) - GitHub
+
+[**@JamesCullum**](https://github.com/JamesCullum) - Office 365
 
 ## Installation
 
